@@ -1,0 +1,10 @@
+Working Space....
+Yani Calisma Alani...
+git init komutunu projemizi git ile iliskilendirmek icin
+yeni kodlar...
+
+---------------------version 1---------------------------------
+git commit -m ile bir mesajla birlikte commit olusturabiliriz.
+---------------------version 2 --------------------------------
+git commit -am"":add+commit birlikte kullaniriz
+ancak bu komut dosya icin en az birkez git add kullanildiktan sonra calisir
