@@ -1,4 +1,4 @@
-# myproject
+# myprojects
 
-### PROJEME HOSGELDINIZ
+### MY ALL MINI PROJECTS
 
